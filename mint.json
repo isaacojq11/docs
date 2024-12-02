@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "Changelog",
-      "url": "api-reference"
+      "url": "moving-to-seal"
     }
   ],
   "anchors": [
@@ -72,6 +72,7 @@
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
+        "moving-to-seal/implementation"
       ]
     },
     {
