@@ -27,20 +27,20 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Changelog",
+      "url": "Changelog"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Website",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://seal.run"
     },
     {
-      "name": "Community",
+      "name": "Contact Sales",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "http://seal.run/contact"
     },
     {
       "name": "Blog",
